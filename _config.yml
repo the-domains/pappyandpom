@@ -1,0 +1,28 @@
+name: pappyandpom
+favicon: null
+layout_spectrum: 0.6201202368829399
+typography_spectrum: 0.8760277219116688
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.853365401737392
+  lightness: 0.3765597636811435
+  saturation: 0.546602371847257
+  rhythmicContrast: 0.30776262399740517
+purpose: []
