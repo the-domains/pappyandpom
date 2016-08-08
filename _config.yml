@@ -1,28 +1,40 @@
-name: pappyandpom
 favicon: null
-layout_spectrum: 0.6201202368829399
-typography_spectrum: 0.8760277219116688
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: pappyandpom
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.546602371847257
+  brandStrength: 0.853365401737392
+  rhythmicContrast: 0.3077626239974052
   brandColors:
     - '#ffffff'
     - '#ffff00'
     - '#00ffff'
     - '#ffffaa'
     - '#80ffff'
-  brandStrength: 0.853365401737392
   lightness: 0.3765597636811435
-  saturation: 0.546602371847257
-  rhythmicContrast: 0.30776262399740517
-purpose: []
+typography_spectrum: 0.8760277219116688
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9962406
+analytics:
+  twitter: null
+  google: null
+  facebook: null
